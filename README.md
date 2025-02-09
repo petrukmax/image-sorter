@@ -31,13 +31,13 @@ Install the required dependencies using `pip`:
 
 ```bash
 pip install pillow
-
+```
 
 Вот текст, который вы можете скопировать и вставить напрямую в файл `README.md` для GitHub. Он уже содержит правильную разметку Markdown и включает все предоставленные вами данные:
 
 ```markdown
 # Image Sorter GUI
-
+```
 A Python-based graphical user interface (GUI) tool for sorting images into labeled subfolders. This program allows users to view images one by one, assign labels to them, and move the images into corresponding folders based on the selected labels.
 
 ## Features
