@@ -85,4 +85,3 @@ This project is licensed under the [Apache License Version 2.0](LICENSE).
 This project was inspired by and adapted from the following repositories:
 - [baumgach/image-sorter](https://github.com/baumgach/image-sorter)
 - [Nestak2/image-sorter2](https://github.com/Nestak2/image-sorter2)
-```
